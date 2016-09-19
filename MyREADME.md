@@ -4,7 +4,7 @@
 There are four scripts that each generates a plot as per the instructions for this assignment.
 Each script will read the data from the original file household_power_consumption.txt.
 
-NOTE: This file should be in the working directory where the scripts are.
+NOTE: The file “household_power_consumption.txt” should be in the working directory where the scripts are.
 
 To run each script simply type source and the name of the file. For example to run plot1.R :
 
